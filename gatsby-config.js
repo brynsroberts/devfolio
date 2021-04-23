@@ -3,56 +3,56 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Bryan Roberts',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Bryan Roberts | Computer Science Student`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Computer Science student based in Woodland, California`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/brynsroberts`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/bryan-roberts-b00945145/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm a motivated Computer Science student who is excited about building software-applications.  While obtaining my degree from Oregon State University, I have worked full-time as a Research Associate at the West Coast Metabolomics Center as a specialist in Untargeted LC-MS/MS instrumentation and data analysis.  I look forward to graduating in December 2021 and pursuing a job in Software Engineering.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Small Shell',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A bash-like shell in C using a variety of UNIX operating system API calls, foreground and background processes, custom handlers for SIGINT and SIGTSTP, and input/output redirection',
+        link: 'https://github.com/brynsroberts/small-shell',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Automated Lipidomics Single Point Quantification',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Utilizes Python and Pandas library to automate an excel data processing task that my team performs on a regular basis and requires hours of manual work',
+        link: 'https://github.com/brynsroberts/Automated-Lipidomics-Single-Point-Quantification',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Pokemon Command Line Game',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Using object-oriented concepts, implements command line game where the players move through pointer linked spaces derived from an abstract Space class',
+        link: 'https://github.com/brynsroberts/Pokemon-Command-Line-Game',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Staff Research Associate III - Untargeted LC-MS/MS Team Leader',
+        description: 'Untargeted LC-MS/MS Team Leader, October 2020 - Present',
+        link: 'https://metabolomics.ucdavis.edu/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Staff Research Associate II - Untargeted LC-MS/MS Team Leader',
+        description: 'Untargeted LC-MS/MS, October 2016 - October 2020',
+        link: 'https://metabolomics.ucdavis.edu/',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Chemist',
+        description: 'Environmental Analytical Chemist, October 2012 - October 2016',
+        link: 'https://metabolomics.ucdavis.edu/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +60,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript, Typescript, Node.js, Express.js, React, C, C++, Python',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'Google App Engine Datastore, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Google App Engine, CI / CD, REST API design, Agile / Scrum, Git/GitHub, Postman',
       },
     ],
   },
