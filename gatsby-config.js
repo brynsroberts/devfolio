@@ -40,19 +40,14 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Staff Research Associate III - Untargeted LC-MS/MS Team Leader',
-        description: 'Untargeted LC-MS/MS Team Leader, October 2020 - Present',
-        link: 'https://metabolomics.ucdavis.edu/',
+        name: 'Oregon State University, Corvallis, OR',
+        description: 'Bachelor of Science in Computer Science GPA: 3.97 (Expected December 2021)',
+        link: '',
       },
       {
-        name: 'Staff Research Associate II - Untargeted LC-MS/MS Team Leader',
-        description: 'Untargeted LC-MS/MS, October 2016 - October 2020',
-        link: 'https://metabolomics.ucdavis.edu/',
-      },
-      {
-        name: 'Chemist',
-        description: 'Environmental Analytical Chemist, October 2012 - October 2016',
-        link: 'https://www.vista-analytical.com/',
+        name: 'Cal Poly, San Luis Obispo, CA',
+        description: 'Bachelor of Science in Molecular and Cellular Biology',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -72,6 +67,7 @@ module.exports = {
           'Google App Engine, CI / CD, REST API Design, Agile / Scrum, Git/GitHub, Postman, Linux',
       },
     ],
+
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
