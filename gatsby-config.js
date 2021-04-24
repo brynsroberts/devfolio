@@ -52,7 +52,7 @@ module.exports = {
       {
         name: 'Chemist',
         description: 'Environmental Analytical Chemist, October 2012 - October 2016',
-        link: 'https://metabolomics.ucdavis.edu/',
+        link: 'https://www.vista-analytical.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -69,7 +69,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Google App Engine, CI / CD, REST API design, Agile / Scrum, Git/GitHub, Postman',
+          'Google App Engine, CI / CD, REST API Design, Agile / Scrum, Git/GitHub, Postman, Linux',
       },
     ],
   },
