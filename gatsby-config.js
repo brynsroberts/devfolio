@@ -55,16 +55,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript, TypeScript, Node.js, Express.js, React, C, C++, Python',
+          'JavaScript, TypeScript, C, C++, Python, Node.js, Express.js, React',
       },
       {
         name: 'Databases',
-        description: 'Google App Engine Datastore, MySQL',
+        description: 'Google Cloud Datastore, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Google App Engine, CI / CD, REST API Design, Agile / Scrum, Git/GitHub, Postman, Linux',
+          'Google App Engine, CI / CD, REST API Design, Agile / Scrum, Git/GitHub, Postman, MVC, Linux',
       },
     ],
 
