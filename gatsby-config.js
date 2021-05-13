@@ -19,6 +19,12 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
+        name: 'Google App Engine REST API',
+        description:
+          'A REST API using Google App Engine and Google Cloud Datastore NoSQL database.  Application validates request body, content-type, and MIME type',
+        link: 'https://github.com/brynsroberts/GAE_REST_API',
+      },
+      {
         name: 'Small Shell',
         description:
           'A bash-like shell in C using a variety of UNIX operating system API calls, foreground and background processes, custom handlers for SIGINT and SIGTSTP, and input/output redirection',
@@ -28,7 +34,8 @@ module.exports = {
         name: 'Automated Lipidomics Single Point Quantification',
         description:
           'Utilizes Python and Pandas library to automate an excel data processing task that my team performs on a regular basis and requires hours of manual work',
-        link: 'https://github.com/brynsroberts/Automated-Lipidomics-Single-Point-Quantification',
+        link:
+          'https://github.com/brynsroberts/Automated-Lipidomics-Single-Point-Quantification',
       },
       {
         name: 'Pokemon Command Line Game',
@@ -41,7 +48,8 @@ module.exports = {
     experience: [
       {
         name: 'Oregon State University, Corvallis, OR',
-        description: 'Bachelor of Science in Computer Science GPA: 3.97 (Expected December 2021)',
+        description:
+          'Bachelor of Science in Computer Science GPA: 3.97 (Expected December 2021)',
         link: '',
       },
       {
@@ -67,7 +75,6 @@ module.exports = {
           'Google App Engine, CI / CD, REST API Design, Agile / Scrum, Git/GitHub, Postman, MVC, Linux, OAuth 2.0',
       },
     ],
-
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
