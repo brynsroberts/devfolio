@@ -21,7 +21,7 @@ module.exports = {
       {
         name: 'Google App Engine REST API',
         description:
-          'A REST API using Google App Engine and Google Cloud Datastore NoSQL database.  Application validates request body, content-type, and MIME type',
+          'A REST API using Google App Engine and Google Cloud Datastore NoSQL database.  Uses Google OAuth API as a JWT provider to authenticate users for protected resources.  Application is written using MVC desing-pattern with React on the front-end and Node.js/Express on the back-end.',
         link: 'https://github.com/brynsroberts/cs493-finalproject',
       },
       {
