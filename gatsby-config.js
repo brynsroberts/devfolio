@@ -22,7 +22,7 @@ module.exports = {
         name: 'Google App Engine REST API',
         description:
           'A REST API using Google App Engine and Google Cloud Datastore NoSQL database.  Application validates request body, content-type, and MIME type',
-        link: 'https://github.com/brynsroberts/GAE_REST_API',
+        link: 'https://github.com/brynsroberts/cs493-finalproject',
       },
       {
         name: 'Small Shell',
