@@ -72,7 +72,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Google App Engine, CI / CD, REST API Design, Agile / Scrum, Git/GitHub, Postman, MVC, Linux, OAuth 2.0',
+          'Google App Engine, CI / CD, REST API Design, Agile / Scrum, Git/GitHub, Postman, MVC, Linux, OAuth 2.0, JWT, Docker',
       },
     ],
   },
