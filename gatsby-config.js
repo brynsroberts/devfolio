@@ -63,11 +63,11 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript, TypeScript, C, C++, Python, Node.js, Express.js, React',
+          'JavaScript, TypeScript, C, C++, Python, Node.js, Express, React',
       },
       {
         name: 'Databases',
-        description: 'Google Cloud Datastore, MySQL',
+        description: 'Google Cloud Datastore NoSQL, MySQL',
       },
       {
         name: 'Other',
