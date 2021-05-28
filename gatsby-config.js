@@ -21,8 +21,8 @@ module.exports = {
       {
         name: 'Google App Engine REST API',
         description:
-          'A REST API using Google App Engine and Google Cloud Datastore NoSQL database.  Uses Google OAuth API as a JWT provider to authenticate users for protected resources.  Application is written using MVC desing-pattern with React on the front-end and Node.js/Express on the back-end.',
-        link: 'https://github.com/brynsroberts/cs493-finalproject',
+          'Implements a REST API that uses proper resource based URLs, pagination and status codes. Uses Google OAuth API as a JWT provider to authenticate users for protected resources. Written using MVC desing-pattern with React on the front-end and Node.js/Express on the back-end. Application is deployed on Google Cloud Platform using Google App Engine and Google Cloud Datastore NoSQL database. All code can be found in the linked GitHub repository along with a Postman collection and environemt to test API functionality.',
+        link: 'https://robertb2-finalproject.wl.r.appspot.com',
       },
       {
         name: 'Small Shell',
