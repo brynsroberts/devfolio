@@ -25,6 +25,12 @@ module.exports = {
         link: 'https://robertb2-restapi.wl.r.appspot.com',
       },
       {
+        name: 'Philosophy Game',
+        description:
+          'A web application implemented with React on the front-end and Node.js/Express on the back-end.  Starting from a random article, see how many articles it takes you to find the Philosophy page.  Uses a microservice to scrape raw html for data off Wikipedia articles. Application is deployed on Google Cloud Platform using Google App Engine.',
+        link: 'https://philosophy-game.wl.r.appspot.com/',
+      },
+      {
         name: 'Small Shell',
         description:
           'A bash-like shell in C using a variety of UNIX operating system API calls, foreground and background processes, custom handlers for SIGINT and SIGTSTP, and input/output redirection',
