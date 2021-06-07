@@ -37,11 +37,11 @@ module.exports = {
         link: 'https://github.com/brynsroberts/small-shell',
       },
       {
-        name: 'Automated Lipidomics Single Point Quantification',
+        name: 'Automated Quantification',
         description:
           'Utilizes Python and Pandas library to automate an excel data processing task that my team performs on a regular basis and requires hours of manual work',
         link:
-          'https://github.com/brynsroberts/Automated-Lipidomics-Single-Point-Quantification',
+          'https://github.com/brynsroberts/automated-quant',
       },
       {
         name: 'Pokemon Command Line Game',
